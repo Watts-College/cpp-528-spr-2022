@@ -13,17 +13,17 @@ info:
  course_title: Foundations of Data Science Part III
  course_number: CPP 528 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/82561'
- course_start_end_dates: March 8 to April 23, 2021
+ course_website: 'https://canvas.asu.edu/courses/115723'
+ course_start_end_dates: March 13 to May 3, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/meeting/557182841'
  review_sessions_when: TBD 
  review_sessions_where: Zoom
- discussion_board_url: 'https://watts-college.github.io/cpp-528-template/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-528-spr-2022/help/'
 
 instructor:
--  name: Cristian E. Nuno
+-  name: Yuki Cruz
    title: Manager of Data Engineering and Information Systems / Faculty Associate
    email: cenuno@asu.edu   
    office_location: virtual
