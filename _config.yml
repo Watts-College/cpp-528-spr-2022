@@ -9,7 +9,7 @@
 # COURSE INSTRUCTOR: 
 
 author:
-    name:       Cristian E. Nuno # update this
+    name:       Yuki Cruz # update this
     github:     cenuno   # Github username for avatar
 
 # calendly app for virtual office hours
@@ -43,9 +43,9 @@ header:
 - title: Resources
   url: resources/
 - title: Yellowdig
-  url: https://canvas.asu.edu/courses/82561/assignments/2072813
+  url: https://canvas.asu.edu/courses/115723/assignments/3053884
 - title: Canvas
-  url: https://canvas.asu.edu/courses/82561
+  url: https://canvas.asu.edu/courses/115723
 - title: Get Help
   url: help/
 
@@ -55,14 +55,14 @@ header:
 
 url :               "https://watts-college.github.io"
 baseurl:            "/cpp-528-template" # update this
-course_url:         "http://watts-college.github.io/cpp-528-template/" # update this
+course_url:         "http://watts-college.github.io/cpp-528-spr-2022/" # update this
 title:              Watts-College # don't change this
 
 github_info:
     username:          watts-college # Github location of the course
     branch:            main
-    website-repo:      cpp-528-template # update this
-    course-repo:       cpp-528-template # update this
+    website-repo:      cpp-528-spr-2022 # update this
+    course-repo:       cpp-528-spr-2022 # update this
 
 
 
