@@ -33,7 +33,7 @@ instructor:
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/yuki-cruz-4084908/'
    office_hours_time: By appointment (see appointment app)
-   office_hours_location:  'https://asu.zoom.us/j/3013598608'
+   office_hours_location: Zoom
    office_hours_app_url: 'https://calendly.com/asu-yuki-cruz/30min'
    
 
