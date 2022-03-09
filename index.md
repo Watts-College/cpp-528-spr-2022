@@ -25,13 +25,13 @@ info:
 instructor:
 -  name: Yuki Cruz
    title: Faculty Associate
-   email: cenuno@asu.edu   
+   email: Yuki.Cruz@asu.edu   
    office_location: virtual
    website_url: 
-   github_url: 'https://github.com/cenuno' 
+   github_url: 'https://github.com/yukicruz' 
    twitter_url: 'https://twitter.com/cenuno_'
    scholar_url: 
-   linked_in_url: 'https://www.linkedin.com/in/cristiannuno/'
+   linked_in_url: 'https://www.linkedin.com/in/yuki-cruz-4084908/'
    office_hours_time: By appointment (see appointment app)
    office_hours_location:  'https://asu.zoom.us/meeting/557182841'
    office_hours_app_url: 'https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhwWDQ3dVdHQmp1fGRlZmF1bHR8OGM4MmYwNzBmMmMwYTRmY2UyODI2MzliNGNiNzFkODg'
