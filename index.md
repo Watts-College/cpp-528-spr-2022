@@ -24,7 +24,7 @@ info:
 
 instructor:
 -  name: Yuki Cruz
-   title: Manager of Data Engineering and Information Systems / Faculty Associate
+   title: Faculty Associate
    email: cenuno@asu.edu   
    office_location: virtual
    website_url: 
