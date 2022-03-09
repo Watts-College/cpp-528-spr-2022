@@ -29,7 +29,7 @@ instructor:
    office_location: virtual
    website_url: 
    github_url: 'https://github.com/yukicruz' 
-   twitter_url: 'https://twitter.com/cenuno_'
+   twitter_url: 
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/yuki-cruz-4084908/'
    office_hours_time: By appointment (see appointment app)
