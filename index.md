@@ -17,7 +17,7 @@ info:
  course_start_end_dates: March 13 to May 3, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/meeting/557182841'
+ class_meets_where:  Zoom
  review_sessions_when: TBD 
  review_sessions_where: Zoom
  discussion_board_url: 'https://watts-college.github.io/cpp-528-spr-2022/help/'
@@ -26,7 +26,7 @@ instructor:
 -  name: Yuki Cruz
    title: Faculty Associate
    email: Yuki.Cruz@asu.edu   
-   office_location: virtual
+   office_location: Zoom
    website_url: 
    github_url: 'https://github.com/yukicruz' 
    twitter_url: 
