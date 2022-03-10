@@ -84,7 +84,7 @@ Consider some of the debates mentioned above and types of economic development p
 
 Drawing on this literature review and the studies mentioned above, what do you think is the best place-based investment a city can make to promote economic development? 
 
-Argue youf case in your discussion pin this week. 
+Argue your case in your discussion pin this week. 
 
 <br>
 <hr>
