@@ -15,7 +15,7 @@ Economic development is challenging because it is difficult to determine what ma
 
 There is a long-standing debate in urban policy. Should we spend money helping people? Or should we spend money helping the places where disadvantaged people live? Neighborhood revitalization strategies target the latter. 
 
-Ed Glaeser, a renouned urban economist, makes a provactive case for investing in people in the article [Can Buffalo ever come back?](https://www.city-journal.org/html/can-buffalo-ever-come-back-13050.html). 
+Ed Glaeser, a renouned urban economist, makes a provocative case for investing in people in the article [Can Buffalo ever come back?](https://www.city-journal.org/html/can-buffalo-ever-come-back-13050.html). 
 
 *(his answer: instead of subsidizing Buffalo residents to live in an unproductive geography we should use the money to help them move to Atlanta)*
 
@@ -84,7 +84,7 @@ Consider some of the debates mentioned above and types of economic development p
 
 Drawing on this literature review and the studies mentioned above, what do you think is the best place-based investment a city can make to promote economic development? 
 
-Argue you case in your discussion pin this week. 
+Argue youf case in your discussion pin this week. 
 
 <br>
 <hr>
