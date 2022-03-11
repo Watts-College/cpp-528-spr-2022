@@ -8,7 +8,7 @@ image-width: 150px
 
 <div class = "uk-container uk-container-small">
 
-<a class="uk-button uk-button-default" style="width:200px" href="../../labs/lab-02-instructions.html">Lab 2 Instructions</a>
+<a class="uk-button uk-button-default" style="width:200px" href="../../labs/lab-02-instructions.html">Lab 2 Preparation and Instructions</a>
 
 <br>
 
