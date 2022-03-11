@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE, message=F, warning=F, eval=T)
 ```
 
-For this lab you will work on preparing your dataset for analysis and streamlining the process of making sense of the data by improving the documentation and by writing some helper functions that will allow you to query the Longitudinal Tracts Data Base (LTDB) to search for the variables you need for your analysis. **[To go to the lab instructions, click here](#lab-instructions).**
+For this lab you will work on preparing your dataset for analysis and streamlining the process of making sense of the data by improving the documentation and by writing some helper functions that will allow you to query the Longitudinal Tracts Data Base (LTDB) to search for the variables you need for your analysis. **[To go to the lab instructions section, click here](#lab-instructions).**
 
 
 
