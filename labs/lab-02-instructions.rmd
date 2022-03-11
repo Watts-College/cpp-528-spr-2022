@@ -24,7 +24,7 @@ For this lab you will work on preparing your dataset for analysis and streamlini
 
 The LTDB is a great resource for over-time analysis of communities because they have harmonized 40 years of census data by apportioning old data so it fits the new 2010 census tracts and allows for analysis of consistent geographic units over time (if you are changing your tract boundaries and adding more tracts but not changing older data your analysis will be completely meaningless). 
 
-Unfortunately, they have done an OK job a documentation but a horrible job at making the data easy to use. 
+Unfortunately, they have done an OK job with documentation but a horrible job at making the data easy to use. 
 
 To overcome this we are going to restructure our input census datasets to enable us to fully utilize the over-time aspects of the data. 
 
