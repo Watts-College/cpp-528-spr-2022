@@ -45,9 +45,19 @@ With all that said, let's get started on cleaning the LTDB!
 
 ## Start Tutorial
 
+```{r setup necessary packages, message=FALSE, eval=FALSE}
+# Install import package
+install.packages("import")
+
+#load and unload here package to reset it for use in the lab
+library(here)
+detach("package:here", unload = TRUE)
+```
+
 ```{r load necessary packages, message=FALSE}
 # load necessary packages ----
 library( dplyr )
+library( import )
 library( here )
 library( knitr )
 library( pander )
