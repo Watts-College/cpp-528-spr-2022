@@ -3155,11 +3155,18 @@ window.onload = function() {
 </div>
 <div id="start-tutorial" class="section level2">
 <h2>Start Tutorial</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># load necessary packages ----</span></span>
-<span id="cb1-2"><a href="#cb1-2"></a><span class="kw">library</span>( dplyr )</span>
-<span id="cb1-3"><a href="#cb1-3"></a><span class="kw">library</span>( here )</span>
-<span id="cb1-4"><a href="#cb1-4"></a><span class="kw">library</span>( knitr )</span>
-<span id="cb1-5"><a href="#cb1-5"></a><span class="kw">library</span>( pander )</span></code></pre></div>
+<pre class="r language-r"><code class=" language-r"><span class="token comment"># Install import package</span>
+install.packages<span class="token punctuation">(</span><span class="token string">"import"</span><span class="token punctuation">)</span>
+
+<span class="token comment">#load and unload here package to reset it for use in the lab</span>
+library<span class="token punctuation">(</span>here<span class="token punctuation">)</span>
+detach<span class="token punctuation">(</span><span class="token string">"package:here"</span><span class="token punctuation">,</span> unload <span class="token operator">=</span> <span class="token boolean">TRUE</span><span class="token punctuation">)</span></code></pre>
+<pre class="r language-r"><code class=" language-r"><span class="token comment"># load necessary packages ----</span>
+library<span class="token punctuation">(</span> dplyr <span class="token punctuation">)</span>
+library<span class="token punctuation">(</span> import <span class="token punctuation">)</span>
+library<span class="token punctuation">(</span> here <span class="token punctuation">)</span>
+library<span class="token punctuation">(</span> knitr <span class="token punctuation">)</span>
+library<span class="token punctuation">(</span> pander <span class="token punctuation">)</span></code></pre>
 </div>
 <div id="heads-up-new-importhere-method" class="section level2">
 <h2>Heads up: new <code>import::here()</code> method</h2>
