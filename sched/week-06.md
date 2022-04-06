@@ -20,7 +20,7 @@ image-width: 150px
   height: 100%;
 }
   
-  </style>
+</style>
 
 <div class = "uk-container uk-container-small">
 
