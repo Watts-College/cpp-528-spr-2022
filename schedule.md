@@ -4,7 +4,7 @@ title: Schedule
 
 canvas: 
   assignment_url: 'https://canvas.asu.edu/courses/82561/assignments'
-  peerfeedbac_url: 'https://canvas.asu.edu/courses/115723/assignments/3139470'
+  peerfeedback_url: 'https://canvas.asu.edu/courses/115723/assignments/3139470'
   
 yellowdig_url: 'https://canvas.asu.edu/courses/82561/assignments/2072813'
 
