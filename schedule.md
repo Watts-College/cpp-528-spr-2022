@@ -4,6 +4,7 @@ title: Schedule
 
 canvas: 
   assignment_url: 'https://canvas.asu.edu/courses/82561/assignments'
+  peerfeedbac_url: 'https://canvas.asu.edu/courses/115723/assignments/3139470'
   
 yellowdig_url: 'https://canvas.asu.edu/courses/82561/assignments/2072813'
 
@@ -306,6 +307,8 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 <a class="uk-button uk-button-default" style="width:200px" href="../discuss/yellowdig-07">YELLOWDIG TOPIC</a>
 <br><br>
 <a class="uk-button uk-button-default" style="width:200px" href="../project/project_rubric.html">GRADING RUBRIC</a>
+<br><br>
+<a class="uk-button uk-button-default" style="width:200px" href="{{ page.canvas.peerfeedback_url }}">PEER FEEDBACK</a>  
 
 ---
 
@@ -320,6 +323,13 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 <a class="uk-button uk-button-primary" style="width:200px" href="{{page.canvas.assignment_url}}">SUBMIT PROJECT</a>
 
 ---
+
+**(Optional) Team Peer Feedback Due {{page.projects.website}}**
+
+<a class="uk-button uk-button-primary" style="width:200px" href="{{page.canvas.peerfeedback_url}}">SUBMIT FEEDBACK</a>
+
+---
+
 
 <br>
 <br>
